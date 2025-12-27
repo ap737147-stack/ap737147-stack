@@ -97,20 +97,18 @@ Brief description of what the app does and key features.
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ap747147-stack&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ap737147-stackthemeut=compact&theme=radical)
 
 ### 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=ap737your-&theme=onedark)
 
 ### 📫 Let's Connect
 
-- 💼 LinkedIn: [Your LinkedIn](your-link)
-- 🐦 Twitter: [@yourhandle](your-link)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [yourportfolio.com](your-link)
+- 💼 LinkedIn: ✓[Alok Kumar Pandeycolorps://www.linkedin.com/in/alok-pandey-813a5b2b6)
+- 📧 Email: ap737147@gmail.com
 
 ### ⚡ Fun Facts
 
@@ -122,4 +120,4 @@ Brief description of what the app does and key features.
 
 💬 Feel free to reach out if you want to collaborate on Flutter projects or just chat about mobile development!
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=ap73147-stack&color=blueviolet)&color=blueviolet)
